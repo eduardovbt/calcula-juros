@@ -30,7 +30,7 @@ namespace CalculaJuros
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "Meu Swagger ", Version = "v1" });
             });
             services.AddControllers();
-            services.AddScoped<ICalculaJuros, CalculaJuros>();
+            services.AddScoped<ICalculaJuros, CalculaJurosService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

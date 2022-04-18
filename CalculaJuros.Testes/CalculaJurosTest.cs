@@ -12,7 +12,7 @@ namespace CalculaJuros.Testes
         [TestMethod]
         public void DeveriaCalcularValorJuros()
         {
-            var calculaJuros = new CalculaJuros();
+            var calculaJuros = new CalculaJurosService();
             var parametrosCalculaJuros = new ParametrosCalculaJuros()
             {
                 Tempo = 5,

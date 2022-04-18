@@ -210,23 +210,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marcio.almeida\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mapaula\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marcio.almeida\\source\\repos\\CalculaJuros\\CalculaJuros\\CalculaJuros.csproj",
+      "projectUniqueName": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros\\CalculaJuros.csproj",
       "projectName": "CalculaJuros",
-      "projectPath": "C:\\Users\\marcio.almeida\\source\\repos\\CalculaJuros\\CalculaJuros\\CalculaJuros.csproj",
-      "packagesPath": "C:\\Users\\marcio.almeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marcio.almeida\\source\\repos\\CalculaJuros\\CalculaJuros\\obj\\",
+      "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros\\CalculaJuros.csproj",
+      "packagesPath": "C:\\Users\\mapaula\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\marcio.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mapaula\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -234,8 +230,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://artifactory.softplan.com.br/artifactory/api/nuget/v3/nuget-local": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://tfs.optemais.com.br/NugetServer/nuget": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -276,12 +272,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.21, 3.1.21]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -290,7 +280,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

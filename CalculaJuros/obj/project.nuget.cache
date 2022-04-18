@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipBEPkl/Jj6vRek3/j1XrBFy/UYH0aeHbO1WbXqU4CdwROISJA1jxB8nTg/TLxIcZStoQPOFKklM5FRaCOdHeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros\\CalculaJuros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mapaula\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mapaula\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mapaula\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\mapaula\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\mapaula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\mapaula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

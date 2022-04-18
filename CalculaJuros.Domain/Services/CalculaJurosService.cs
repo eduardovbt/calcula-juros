@@ -3,7 +3,7 @@ using System;
 
 namespace CalculaJuros
 {
-    public class CalculaJuros : ICalculaJuros
+    public class CalculaJurosService : ICalculaJuros
     {
 
         public double CalculaJurosCompostos(ParametrosCalculaJuros parametros)
