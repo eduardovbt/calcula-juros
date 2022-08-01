@@ -2,25 +2,34 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using Xunit;
 using CalculaJuros;
+using FluentAssertions;
 using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
+using CalculaJuros.Entities.Entidades;
+using CalculaJuros.Domain.Interfaces;
 
 namespace CalculaJuros.Testes
 {
-    [TestClass]
+ 
     public class CalculaJurosTest
     {
-        [TestMethod]
+        private IJurosComposto _calculaJurosService;
+
+        public CalculaJurosTest(IJurosComposto calculaJurosService)
+        {
+            _calculaJurosService = calculaJurosService;
+        }
+
+        [Fact]
         public void DeveriaCalcularValorJuros()
         {
-            var calculaJuros = new CalculaJurosService();
             var parametrosCalculaJuros = new ParametrosCalculaJuros()
             {
                 Tempo = 5,
                 ValorInicial = 100.00
             };
-            var valorFinal = calculaJuros.CalculaJurosCompostos(parametrosCalculaJuros);
-
-            Assert.AreEqual(105.10, valorFinal);
+            var valorFinal = _calculaJurosService.CalculaJurosCompostos(parametrosCalculaJuros);
+            valorFinal.Should().Be(105.10M);
+           
         }
     }
 }

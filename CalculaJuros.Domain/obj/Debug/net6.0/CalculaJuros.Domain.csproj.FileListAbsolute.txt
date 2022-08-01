@@ -1,0 +1,17 @@
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Domain.deps.json
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Domain.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Domain.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Entities.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Entities.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.csproj.AssemblyReference.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.AssemblyInfoInputs.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.AssemblyInfo.cs
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.csproj.CopyComplete
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\refint\CalculaJuros.Domain.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\CalculaJuros.Domain.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\obj\Debug\net6.0\ref\CalculaJuros.Domain.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Repository.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Domain\bin\Debug\net6.0\CalculaJuros.Repository.pdb

@@ -4,6 +4,203 @@
     "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Testes\\CalculaJuros.Testes.csproj": {}
   },
   "projects": {
+    "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj",
+        "projectName": "CalculaJuros.Domain",
+        "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj",
+        "packagesPath": "C:\\Users\\mapaula\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mapaula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj"
+              },
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj",
+        "projectName": "CalculaJuros.Entities",
+        "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj",
+        "packagesPath": "C:\\Users\\mapaula\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mapaula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj",
+        "projectName": "CalculaJuros.Repository",
+        "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj",
+        "packagesPath": "C:\\Users\\mapaula\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mapaula\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Testes\\CalculaJuros.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -18,17 +215,22 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.optemais.com.br/NugetServer/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj"
+              },
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Entities\\CalculaJuros.Entities.csproj"
+              },
               "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros\\CalculaJuros.csproj": {
                 "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros\\CalculaJuros.csproj"
               }
@@ -42,9 +244,13 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[2.2.8, )"
@@ -54,8 +260,10 @@
               "version": "[16.5.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[3.1.2, )"
             },
             "xunit": {
               "target": "Package",
@@ -99,17 +307,23 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://tfs.optemais.com.br/NugetServer/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Domain\\CalculaJuros.Domain.csproj"
+              },
+              "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj": {
+                "projectPath": "C:\\Users\\mapaula\\Desktop\\Projetos\\calcula-juros\\CalculaJuros.Repository\\CalculaJuros.Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -119,9 +333,17 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.3.0, )"

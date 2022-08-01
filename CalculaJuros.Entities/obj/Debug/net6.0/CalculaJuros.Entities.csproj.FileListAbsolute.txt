@@ -1,0 +1,12 @@
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\bin\Debug\net6.0\CalculaJuros.Entities.deps.json
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\bin\Debug\net6.0\CalculaJuros.Entities.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\bin\Debug\net6.0\CalculaJuros.Entities.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.csproj.AssemblyReference.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.AssemblyInfoInputs.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.AssemblyInfo.cs
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\refint\CalculaJuros.Entities.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\CalculaJuros.Entities.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Entities\obj\Debug\net6.0\ref\CalculaJuros.Entities.dll

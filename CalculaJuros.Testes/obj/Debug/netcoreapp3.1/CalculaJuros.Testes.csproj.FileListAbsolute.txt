@@ -220,3 +220,12 @@ C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\obj\Debug\ne
 C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\obj\Debug\netcoreapp3.1\CalculaJuros.Testes.dll
 C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\obj\Debug\netcoreapp3.1\CalculaJuros.Testes.pdb
 C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\obj\Debug\netcoreapp3.1\CalculaJuros.Testes.genruntimeconfig.cache
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\CalculaJuros.Entities.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\CalculaJuros.Domain.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\CalculaJuros.Entities.pdb
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mapaula\Desktop\Projetos\calcula-juros\CalculaJuros.Testes\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
